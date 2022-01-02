@@ -1,0 +1,9 @@
+chprint = 60
+ln 1
+outln Welcome
+outln new
+outln user!
+chprint = 60
+ln 1
+pause
+end
