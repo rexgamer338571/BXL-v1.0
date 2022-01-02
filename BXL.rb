@@ -17,8 +17,6 @@ module BXL
                 exit
             when "wait"
                 sleep args[1].to_f
-            when "help"
-                print "outln - prints the text\nln - creates new line\nchprint - prints one char\npause - pause\nend - exits"
             else
                 raise("ERROR")
             end
